@@ -32,8 +32,8 @@ fromage: Time frame (1 day).
 radius: Search radius (50 miles).
 sort: Sorting criterion (date).
 # Headers
-The request headers contain:
 ![ScrapeScrape](headers.png)
+The request headers contain:
 x-rapidapi-key: Your RapidAPI key.
 x-rapidapi-host: Host header required for the API.
 Handling the API Response
