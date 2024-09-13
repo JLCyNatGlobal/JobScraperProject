@@ -33,7 +33,7 @@ radius: Search radius (50 miles).
 sort: Sorting criterion (date).
 # Headers
 ![ScrapeScrape](headers.png)
-The request headers contain:
+## The request headers contain:
 x-rapidapi-key: Your RapidAPI key.
 x-rapidapi-host: Host header required for the API.
 Handling the API Response
