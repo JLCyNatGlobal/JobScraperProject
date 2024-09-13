@@ -23,6 +23,7 @@ API URL and Parameters
 The script uses the following API URL and query parameters:
 URL: https://indeed12.p.rapidapi.com/jobs/search
 # Query Parameters:
+![ScrapeScrape](parameters.png)
 query: The job title to search for (cybersecurity).
 location: The job location (Chicago).
 page_id: Pages to search (1, 2).
