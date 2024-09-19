@@ -20,7 +20,7 @@ querystring = {"query":"cybersecurity","location":"chicago","page_id":["1, 2"],"
 
 # Headers for the API request
 headers = {
-	"x-rapidapi-key": "306724d89bmsh4751423d84c5c20p19198fjsnaa791a5ccb7c",
+	"x-rapidapi-key": "1234/",
 	"x-rapidapi-host": "indeed12.p.rapidapi.com"
 }
 
